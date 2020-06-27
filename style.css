@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+}
+ul{
+    background-color: rosybrown;
+    margin-top: 0px;
+    list-style:none;
+}
+
+li{
+    display: inline;
+    padding: 14px ;
+}
+
+a{
+    color: slateblue;
+    text-decoration: none;
+}
+
+#div1{
+background-color: red;
+}
+
+#div2{
+    margin-top: 10px
+    background-color: green;
+    }
+
+.btn{
+    margin: 16px;
+    border:none;
+    padding:8px;
+    border-radius: 3px
+}
+.btn-1{
+    background-color: hotpink;
+}
+}
+.btn-2{
+    background-color:goldenrod
+}
+}
+.btn-3{
+    background-color: darkred
+}
+/* bootstrap */
+/*UIkit */
